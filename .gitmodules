@@ -1,0 +1,3 @@
+[submodule "vendor/plibsys"]
+	path = vendor/plibsys
+	url = https://github.com/saprykin/plibsys.git
